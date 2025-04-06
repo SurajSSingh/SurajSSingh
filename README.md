@@ -54,8 +54,12 @@ These are languages, framework, tools, and assorted skills I've worked in person
 
 ## Credits
 
+Special thanks to the following projects in helping craft this page:
+
+- [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [Skill Icon](https://github.com/tandpfun/skill-icons)
 
 <!-- CREDITS FOR MAYBE
 - [GitHub README Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
