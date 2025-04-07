@@ -22,13 +22,13 @@ Hi, I'm Suraj Singh (he/they), a Creative Software Developer based out of Califo
 These are languages, framework, tools, and assorted skills I've worked in personally, academically, or professionally:
 <details align="center">
   <summary>Highlighted Skills: <img src="https://skillicons.dev/icons?i=cs,unity,rust,tauri,ts,svelte" /> (click to see full list)</summary>
-    <img src="https://skillicons.dev/icons?i=python,html,md" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=html,md" />
     <img src="https://skillicons.dev/icons?i=css,sass,tailwind" />
     <img src="https://skillicons.dev/icons?i=js,astro" />
     <img src="https://skillicons.dev/icons?i=deno,pnpm,vite" />
+    <img src="https://skillicons.dev/icons?i=haskell,nix,wasm" />
     <img src="https://skillicons.dev/icons?i=sentry,replit,netlify,vercel" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-    <img src="https://skillicons.dev/icons?i=wasm,haskell,nix" />
     <img src="https://skillicons.dev/icons?i=atom,vscode,vscodium,blender" />
     <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
 </details>
@@ -38,6 +38,12 @@ These are languages, framework, tools, and assorted skills I've worked in person
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajSSingh&theme=github_dark)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SurajSSingh&theme=github_dark)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SurajSSingh&theme=github_dark)
+
+<!--
+Profile
+- https://profile-summary-for-github.com/user/SurajSSingh
+- https://www.githubwrapped.io/SurajSSingh
+-->
 
 ### Top 10 Languages
 
