@@ -48,7 +48,7 @@ Profile
 ### Top 10 Languages
 
 ![Top 5 Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SurajSSingh&theme=github_dark&exclude=ShaderLab)
-![Next 5 Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SurajSSingh&theme=github_dark&exclude=csharp,ShaderLab,js,ts,svelte,python)
+![Next 5 Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SurajSSingh&theme=github_dark&exclude=ShaderLab,csharp,js,svelte,python,html)
 
 <!-- TO MAYBE ADD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajSSingh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
