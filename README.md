@@ -7,8 +7,8 @@ Hi, I'm Suraj Singh (he/they), a Creative Software Developer based out of Califo
 ### Quick list
 
 - 🖼️ My portfolio: <https://surajssingh.com>
-- 🔭 I’m currently working on [Super Mouse AI](https://github.com/SurajSSingh/SuperMouseAI)
-- 🌱 I’m currently learning [Tauri](https://tauri.app/)
+- 🔭 I’m currently working on [Speakflow Desktop](https://www.speakflow.com/) and [Adaptive Command](https://light-with-blocks.itch.io/adaptive-command-prototype)
+- 🌱 I’m currently learning [TanStack Start](https://tanstack.com/start) and [Solid](https://www.solidjs.com/)
 - 😄 Pronouns: **Name preferred**, otherwise He/Him or They/Them
 - 💬 Got something interesting, tell me about it, I love learning new things
 
